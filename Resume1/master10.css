@@ -18,6 +18,23 @@ float: left;
   margin-bottom: 2px;
   color: green;
   margin-right: 5%;
+  font-family: 'Inconsolata', monospace;
+
+
+
+
+}
+
+p{
+  font-size: 2vw;
+  width: 100%;
+  float:left;
+  align: left;
+  margin-left: 3%;
+  color: green;
+  margin-top: 0%;
+  margin: 0%;
+  font-family: 'Inconsolata', monospace;
 
 
 
@@ -27,7 +44,7 @@ font-size: 6vw;
 width: 100%;
 float:left;
 align: left;
-margin-left: 15%;
+margin-left: 3%;
 color: green;
 margin-top: 2%;
 
@@ -64,6 +81,36 @@ width: 100%;
 float: left;
 margin-top: .5%;
 margin-left: 1%;
+
+}
+
+.blackbox{
+margin-left: 20%;
+margin-right: 20%;
+margin-top: 8%;
+color: blue;
+width: 100vh;
+max-width: 60%;
+height: 100vh;
+background: blue;
+background-color: black;
+position: absolute;
+align-content:left;
+align-items: left;
+
+
+
+}
+
+ul{
+color: green;
+font-family: 'Inconsolata', monospace;
+
+
+}
+
+
+
 
 }
 #img1{

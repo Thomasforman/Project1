@@ -15,9 +15,10 @@ align: left;
 float: left;
   font-size: 3vw;
   margin-top: 0px;
-  margin-bottom: 2px;
+  margin-bottom: 1%;
   color: green;
   margin-right: 5%;
+  font-family: 'Inconsolata', monospace;
 
 
 
@@ -27,9 +28,27 @@ font-size: 6vw;
 width: 100%;
 float:left;
 align: left;
-margin-left: 15%;
+margin-left: 35%;
 color: green;
 margin-top: 2%;
+
+font-family: 'Inconsolata', monospace;
+
+
+}
+
+
+h3{
+  font-size: 6vw;
+  width: 100%;
+  float:left;
+  align: left;
+  margin-left: 3%;
+  color: green;
+  margin-top: .3%;
+
+  font-family: 'Inconsolata', monospace;
+
 
 
 
@@ -59,25 +78,41 @@ top: 5px;
   float: left;
 
 }
-.img1{
+.column {
+
+  text-align: 30%;
+    width: 100%;
+    height: 40vh;
+    text-align: 30%;
+  float: left;
+  background: black; */
+  align: left;
+  margin-top: 0%;
+  margin-left: 1%;
+  padding: left: %;
+  }
+/* background: blue; */
+}
+
+.img{
 width: 100%;
 float: left;
-margin-top: .5%;
-margin-left: 1%;
+/* margin-top: .5%;
+margin-left: 1%; */
 
-}
+/* }
 #img1{
   border-radius: 0px;
   cursor: pointer;
   transition: 0.3s;
-}
+} */
 
-#img1:hover {opacity: 0.7;}
+/* #img1:hover {opacity: 0.7;} */
 
 /* The Modal (background) */
-.modal {
+/* .modal {
   display: none; /* Hidden by default */
-  position: fixed; /* Stay in place */
+  /* position: fixed; /* Stay in place */
   z-index: 1; /* Sit on top */
   padding-top: 100px; /* Location of the box */
   left: 0;
@@ -95,7 +130,7 @@ margin-left: 1%;
   display: block;
   width: 80%;
   max-width: 700px;
-}
+} */
 
 /* Caption of Modal Image */
 #caption {
@@ -149,7 +184,7 @@ margin-left: 1%;
 @media only screen and (max-width: 700px){
   .modal-content {
     width: 100%;
-  }
+  } */
 
 
 
